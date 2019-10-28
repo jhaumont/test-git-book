@@ -1,6 +1,6 @@
 # Initial page
 
-## zeGetting Super Powers
+## dzeGetting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
 
